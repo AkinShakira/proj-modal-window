@@ -18,9 +18,9 @@ body  {
   border-radius: 2rem;
 }
 
-/* .hidden  {
+.hidden  {
   display: none;
-} */
+}
 
 .overlay  {
   position: absolute;
